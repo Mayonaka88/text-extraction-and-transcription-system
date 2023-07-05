@@ -1,5 +1,5 @@
 # Text Extraction and Transcription System Using CRNN and EAST For Automatic Multiple Text Transcription From Images
-#### NOTE: DOWNLOAD THE FIRST DATASET REQUIRED FROM [HERE](https://www.robots.ox.ac.uk/~vgg/data/text/)! THE SECOND DATASET IS NOT AVAILABLE YET! MODIFY THE CODE ACCORDINGLY!
+#### NOTE: DOWNLOAD THE FIRST DATASET REQUIRED FROM [HERE](https://www.robots.ox.ac.uk/~vgg/data/text/)! THE SECOND DATASET IS NOT AVAILABLE YET SO MODIFY THE CODE ACCORDINGLY! DOWNLOAD THE EAST MODEL [HERE](https://github.com/oyyd/frozen_east_text_detection.pb)!
 >A Text Extraction and Transcription System created in 2023 as a project for my Machine Learning & Pattern Recognition course in the British University in Dubai
 
 ## Methodology
